@@ -1,5 +1,7 @@
 #root {
-
   text-align: center;
 }
 
+.center-container {
+  @apply mx-auto lg:w-1/2 md:w-3/4 w-[90%]
+}
