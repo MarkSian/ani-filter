@@ -1,6 +1,6 @@
-import { useState } from 'react'
 import './App.css'
 import NavBar from './components/NavBar'
+import MoodFilter from './components/MoodFilter'
 
 function App() {
 
@@ -8,6 +8,10 @@ function App() {
     <>
 
       <NavBar />
+      <MoodFilter />
+
+
+
     </>
   )
 }
