@@ -6,7 +6,6 @@ const moods = {
     "😎 Chill": "Slice of Life",
     "🥰 Romantic": "Romance",
     "🥴 Weird": "Sci-Fi",
-    "😩 NSFW": "Ecchi",
     "🤩 Enthusiastic": "Action",
     "🤔 imaginative": "Fantasy",
     "😈 rebellious": "Avant Garde",
